@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ -Wall -o \"main\" \"main.cpp\""
